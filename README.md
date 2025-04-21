@@ -53,4 +53,4 @@ The application is deployed and can be accessed at: [Live Server URL](https://kr
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/kazirauf/KRE-Elite-Sport-Backend
+  https://github.com/kazirahat89/KRE-Elite-Sport-Backend.git
